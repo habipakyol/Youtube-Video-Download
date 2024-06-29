@@ -68,5 +68,7 @@ Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin
 • Bir Pull Request oluşturun.
 
 ### Lisans 📄
-Bu proje MIT Lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
+
+Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](./LICENSE) dosyasına bakabilirsiniz.
+
 
