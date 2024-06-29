@@ -69,6 +69,6 @@ Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin
 
 ### Lisans 📄
 
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](./LICENSE) dosyasına bakabilirsiniz.
+Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](./License) dosyasına bakabilirsiniz.
 
 
