@@ -71,7 +71,7 @@ Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin
 
 Bu proje MIT Lisansı altında lisanslanmıştır. Detaylı bilgi için [LICENSE](/LICENSE.txt) dosyasına bakabilirsiniz.
 
-🌐 **Instagram:** [@instagram](https://www.instagram.com/habipakyol_/)
+[Instagram](https://www.instagram.com/habipakyol_/)
 
 
 
