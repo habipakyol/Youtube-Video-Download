@@ -10,6 +10,11 @@ YouTube Video Downloader, YouTube'dan video indirmenize olanak tanıyan bir Pyth
 - **Hata Yönetimi:** Sorunsuz bir işlem sağlamak için güçlü hata yönetimi.
 - **Çapraz Platform:** Uygulama, Windows, MacOS ve Linux dahil olmak üzere çeşitli işletim sistemlerinde çalıştırılabilir.
 
+## Programın Ana İşlevleri
+- **fetch_streams:** Kullanıcının girdiği YouTube URL'sine göre video ve ses akışlarını alır ve kalite seçim menüsünü günceller.
+
+- **download_video:** Seçilen kaliteye göre videoyu indirir, video ve ses dosyalarını birleştirir, kullanıcıya bilgi verir ve giriş alanlarını sıfırlar.
+
 ## Başlarken 🚀
 
 ### Gereksinimler 📋
@@ -54,18 +59,18 @@ Exe dosyasını oluşturmak için aşağıdaki komutu çalıştırın:
     pyinstaller youtube_video_downloader.spec
 Bu işlem tamamlandığında, dist klasöründe çalıştırılabilir bir exe dosyası oluşturulacaktır.
 
-### Katkı Yapma 🤝
+### *Katkı Yapma* 🤝
 Bu projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları izleyin:
 
-• Bu repoyu fork edin.
+- **Bu repoyu fork edin.**
 
-• Yeni bir branş oluşturun: git checkout -b feature/AmazingFeature.
+- **Yeni bir branş oluşturun: git checkout -b feature/AmazingFeature.**
 
-• Değişikliklerinizi commit edin: git commit -m 'Add some AmazingFeature'.
+- **Değişikliklerinizi commit edin: git commit -m 'Add some AmazingFeature'.**
 
-• Branşınıza push edin: git push origin feature/AmazingFeature.
+- **Branşınıza push edin: git push origin feature/AmazingFeature.**
 
-• Bir Pull Request oluşturun.
+- **Bir Pull Request oluşturun.**
 
 ### Lisans 📄
 
